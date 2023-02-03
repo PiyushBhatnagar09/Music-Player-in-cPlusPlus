@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669490382 source:c:\users\lenovo\piyush\sem3\project\ds\dsprojectcodeblocks\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+	<string>
+	<fstream>
+	<algorithm>
+

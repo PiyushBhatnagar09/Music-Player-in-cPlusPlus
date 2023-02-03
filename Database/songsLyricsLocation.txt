@@ -1,0 +1,2 @@
+lyrics\satisfya.txt
+lyrics\bad_habit.txt

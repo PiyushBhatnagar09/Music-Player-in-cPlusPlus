@@ -1,0 +1,8 @@
+steps to run our DS MUSIC SYSTEM PROJECT :-
+1. make codeblocks new project
+2. paste our code in the main.cpp of that project folder
+3. add Database, song, lyrics folder in the same folder as main.cpp
+4. go to setting->compiler->linker setting, and add "-lwinmm" to play music otherwise the playmusic() function in our code will give error.
+
+THANK YOU !!
+-Piyush Bhatnagar 21103186 B7
